@@ -68,3 +68,9 @@ The data attributes that form the dataset columns are as follows:
 
 ## Observations
 In KNN, increasing the number of neighbours resulted in lower scores and in DT increasing tree depth led to lower accuracies.
+
+## Usage
+```sh
+pip install -r requirements.txt
+python bank-loan-risk.py # or execute jupyter notebook instead
+```
